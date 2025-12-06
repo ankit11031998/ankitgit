@@ -72,12 +72,28 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankit11031998&show_icons=true&theme=default&hide_border=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankit11031998&layout=compact&theme=default&hide_border=true" height="160" alt="Top Languages" />
+  <!-- Main GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ankit11031998&show_icons=true&theme=default&hide_border=true&count_private=true" 
+    alt="GitHub Stats"
+    height="160"
+  />
+  
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=ankit11031998&layout=compact&theme=default&hide_border=true" 
+    alt="Top Languages"
+    height="160"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ankit11031998&theme=default&hide_border=true" height="180" alt="GitHub Streak" />
+  <!-- Streak Stats -->
+  <img 
+    src="https://streak-stats.demolab.com?user=ankit11031998&theme=default&hide_border=true" 
+    alt="GitHub Streak"
+    height="180"
+  />
 </p>
 
 ---
