@@ -1,142 +1,81 @@
-<!-- Typing SVG Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=00A8FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B,+I'm+Ankit+Ramola!;Python+Full+Stack+Developer;AI+%2F+ML+Enthusiast;Learning+and+Building+Every+Day" alt="Typing Animation" />
+  <span style="color:#00f5ff;">Ankit Ramola</span> ⚡
 </h1>
-
-<h3 align="center">Turning ideas into code, one bug at a time.</h3>
+<h3 align="center" style="color:#f72585;">Python Full Stack Developer | AI/ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ankit11031998&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile views" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=F72585&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%2B+ML+Learner;Breaking+things+to+learn+faster" />
 </p>
 
----
-
-## 🚀 About Me
-
-- 🌱 I’m currently learning: **Python** and **HTML**
-- 🔭 I’m currently working on: **Coding Platform Website**
-- 💬 Ask me about: **Python Full Stack development**
-- 🎯 Goal: Become a strong **Full Stack + AI/ML** engineer
-- 📫 How to reach me: **[ankitramola1103@gmail.com](mailto:ankitramola1103@gmail.com)**  
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/ankit11031998" target="_blank" rel="noreferrer noopener" title="GitHub">
-    <img src="https://cdn.simpleicons.org/github" alt="GitHub" height="35" width="35" />
+<p align="center">
+  <a href="mailto:ankitramola1103@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23f72585?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/ankit-ramola-5621b12b3" target="_blank" rel="noreferrer noopener" title="LinkedIn">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="35" width="35" />
+  <a href="https://linkedin.com/in/ankit-ramola-5621b12b3">
+    <img src="https://img.shields.io/badge/LinkedIn-%2300f5ff?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/ankitramola1103" target="_blank" rel="noreferrer noopener" title="LeetCode">
-    <img src="https://cdn.simpleicons.org/leetcode" alt="LeetCode" height="35" width="35" />
+  <a href="https://github.com/ankit11031998">
+    <img src="https://img.shields.io/badge/GitHub-%23121212?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/ankitramola1103">
+    <img src="https://img.shields.io/badge/LeetCode-%23ffb703?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
 
 ---
 
-## 🧰 Tech Toolbox
+## ⚙ System Status
 
-### 🔹 Languages
+- 🌱 Learning: **Python**, **HTML**, core web dev  
+- 🔭 Active project: **Coding Platform Website**  
+- 💬 Expertise: **Python Full Stack fundamentals**  
+- 🎯 Vision: Blend **Full Stack + AI/ML** for real-world apps  
+
+---
+
+## 🧬 Tech Stack (Neon Mode)
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" />
-  <img src="https://skillicons.dev/icons?i=java" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css" height="45" />
 </p>
 
-### 🔹 Backend / Tools
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" height="45" />
-  <img src="https://skillicons.dev/icons?i=spring" height="45" />
-  <img src="https://skillicons.dev/icons?i=docker" height="45" />
+  <img src="https://skillicons.dev/icons?i=spring,mysql,docker" height="45" />
 </p>
 
-### 🔹 Dev Tools & Platforms
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git" height="45" />
-  <img src="https://skillicons.dev/icons?i=github" height="45" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="45" />
-  <img src="https://skillicons.dev/icons?i=postman" height="45" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" height="45" />
   <img src="https://img.icons8.com/color/512/intellij-idea.png" height="45" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 💾 GitHub Matrix
 
 <p align="center">
-  <!-- Main GitHub Stats -->
   <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ankit11031998&show_icons=true&theme=default&hide_border=true&count_private=true" 
-    alt="GitHub Stats"
-    height="160"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ankit11031998&show_icons=true&theme=radical&hide_border=true&count_private=true"
+    height="170"
   />
-  
-  <!-- Top Languages -->
   <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=ankit11031998&layout=compact&theme=default&hide_border=true" 
-    alt="Top Languages"
-    height="160"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=ankit11031998&layout=compact&theme=radical&hide_border=true"
+    height="170"
   />
 </p>
 
 <p align="center">
-  <!-- Streak Stats -->
   <img 
-    src="https://streak-stats.demolab.com?user=ankit11031998&theme=default&hide_border=true" 
-    alt="GitHub Streak"
+    src="https://streak-stats.demolab.com?user=ankit11031998&theme=radical&hide_border=true"
     height="180"
   />
 </p>
 
 ---
 
-## 🧠 Coding Profiles
+## 🔐 Coding Grid
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/ankitramola1103?theme=dark&font=Roboto&ext=heatmap)
-
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode-Profile-orange?logo=LeetCode)](https://leetcode.com/ankitramola1103/)
-
----
-
-## 🌟 Featured Projects
-
-🚧 *Still building, but here’s what I’m working on:*  
-
-- 🔹 **Coding Platform Website**  
-  A web platform for practicing coding problems & challenges.  
-  `Tech:` Python, HTML, CSS, MySQL  
-  `Status:` In progress  
-
-- 🔹 **Beginner Python Mini-Projects**  
-  Collection of basic automation & console projects to sharpen logic.  
-
-> I keep pushing new stuff here: **[github.com/ankit11031998?tab=repositories](https://github.com/ankit11031998?tab=repositories)**
-
----
-
-## 🐍 Contribution Snake
+![LeetCode Stats](https://leetcard.jacoblin.cool/ankitramola1103?theme=dark&font=Space+Grotesk&ext=heatmap)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
-## ☕ Support & Contact
-
-<p align="center">
-  <a href="mailto:ankitramola1103@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Ankit%20Ramola-blue?style=flat&logo=gmail" />
-  </a>
-  <a href="https://github.com/sponsors/ankit11031998" target="_blank" rel="noreferrer noopener">
-    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2?logo=GitHub-Sponsors&style=social" />
-  </a>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
