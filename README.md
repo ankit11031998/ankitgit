@@ -51,10 +51,10 @@
 
 ## 📊 Coding Profiles
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Akhileshrawat12?theme=dark&font=Roboto&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/ankitramola1103?theme=dark&font=Roboto&ext=heatmap)
 
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode-Profile-orange?logo=LeetCode)](https://leetcode.com/Akhileshrawat12/)
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-Profile-orange?logo=LeetCode)](https://leetcode.com/ankitramola1103/)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AkhileshRawatGit&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />   <a href="https://github.com/sponsors/AkhileshRawatGit" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2?logo=GitHub-Sponsors&style=social" alt="Sponsor @AkhileshRawatGit" /></a>
+  <img src="https://komarev.com/ghpvc/?username=ankitgitGit&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />   <a href="https://github.com/sponsors/ankitgit" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2?logo=GitHub-Sponsors&style=social" alt="Sponsor @ankitgit" /></a>
 </p>
