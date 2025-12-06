@@ -74,14 +74,14 @@
 <p align="center">
   <!-- Main GitHub Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=ankit11031998&show_icons=true&theme=default&hide_border=true&count_private=true" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ankit11031998&show_icons=true&theme=default&hide_border=true&count_private=true" 
     alt="GitHub Stats"
     height="160"
   />
   
   <!-- Top Languages -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=ankit11031998&layout=compact&theme=default&hide_border=true" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=ankit11031998&layout=compact&theme=default&hide_border=true" 
     alt="Top Languages"
     height="160"
   />
