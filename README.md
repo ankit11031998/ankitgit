@@ -43,11 +43,11 @@
 </p>
 </div>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AkhileshRawatGit&show_icons=true&locale=en&theme=default&count_private=true&hide_border=true" alt="AkhileshRawatGit's GitHub Stats" /></p>
+<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AkhileshRawatGit&show_icons=true&locale=en&theme=default&count_private=true&hide_border=true" alt="AkhileshRawatGit's GitHub Stats" /></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AkhileshRawatGit&locale=en&theme=default&layout=compact&hide_border=true" alt="Top Languages" /></p>
 
-<p align="center"><img src="https://streak-stats.demolab.com/?user=AkhileshRawatGit&theme=default&hide_border=true" alt="GitHub Streak Stats" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com/?user=AkhileshRawatGit&theme=default&hide_border=true" alt="GitHub Streak Stats" /></p> -->
 
 ## 📊 Coding Profiles
 
