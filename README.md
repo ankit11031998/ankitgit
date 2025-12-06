@@ -12,18 +12,16 @@
 <h3 align="left">Connect with me:</h3>
 <div class="social-icons-wrapper">
 <p style="text-align: left; display: flex; flex-wrap: wrap; align-items: center; gap: 8px;">
-<a href="https://github.com/ankit11031998/ankitgit" target="_blank" rel="noreferrer noopener" title="GitHub" class="social-icon-link">
+<a href="https://github.com/https://github.com/ankit11031998/ankitgit" target="_blank" rel="noreferrer noopener" title="GitHub" class="social-icon-link">
     <img src="https://cdn.simpleicons.org/github" alt="GitHub" height="35" width="35" style="vertical-align: middle;"/>
   </a>
-  <a href="https://linkedin.com/in/akhilesh-rawat-613209286" target="_blank" rel="noreferrer noopener" title="LinkedIn" class="social-icon-link">
+  <a href="https://linkedin.com/in/ankit-ramola-5621b12b3" target="_blank" rel="noreferrer noopener" title="LinkedIn" class="social-icon-link">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="35" width="35" style="vertical-align: middle;"/>
   </a>
-  <a href="https://leetcode.com/Akhileshrawat12" target="_blank" rel="noreferrer noopener" title="LeetCode" class="social-icon-link">
+  <a href="https://leetcode.com/ankitramola1103" target="_blank" rel="noreferrer noopener" title="LeetCode" class="social-icon-link">
     <img src="https://cdn.simpleicons.org/leetcode" alt="LeetCode" height="35" width="35" style="vertical-align: middle;"/>
   </a>
-  <a href="https://www.naukri.com/code360/profile/9ab92edb-7b65-4d09-a6ae-afcf126f9973" target="_blank" rel="noreferrer noopener" title="Code 360" class="social-icon-link">
-    <img src="https://files.codingninjas.in/new-cn-logos-1-1711622387.svg" alt="Code 360" height="100" width="100" style="vertical-align: middle;" />
-  </a>
+ 
 </p>
 </div>
 
@@ -53,7 +51,7 @@
 
 ## 📊 Coding Profiles
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Akhileshrawat12?theme=dark&font=Roboto&ext=heatmap)  
+![LeetCode Stats](https://leetcard.jacoblin.cool/Akhileshrawat12?theme=dark&font=Roboto&ext=heatmap)
 
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-Profile-orange?logo=LeetCode)](https://leetcode.com/Akhileshrawat12/)
 
