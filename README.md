@@ -54,10 +54,10 @@ I write code, fix bugs, create UI, break things accidentally, and learn faster t
 
 ## 🚀 Featured Projects
 
-### 🔹 **Coding Platform Website**  
-A project that helps users practice coding and solve challenges.  
-**Tech:** Python, HTML, CSS, MySQL  
-**Status:** 🚧 Work in Progress  
+#1# 🔹 **Rock Paper Scissor Game**    
+**Tech:** Javascript, HTML, CSS.
+**Status:** Complete
+**Link:** - https://rockpaperscissorgame1.netlify.app/
 
 ---
 
