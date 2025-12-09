@@ -61,28 +61,6 @@ A project that helps users practice coding and solve challenges.
 
 ---
 
-## 📈 GitHub Insights
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ankit11031998&show_icons=true&theme=transparent&hide_border=true" 
-    height="170"
-  />
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=ankit11031998&layout=compact&theme=transparent&hide_border=true"
-    height="170"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=ankit11031998&theme=default&hide_border=true"
-    height="180"
-  />
-</p>
-
----
-
 ## 🧠 Coding Profiles
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ankitramola1103?theme=dark&ext=heatmap)
