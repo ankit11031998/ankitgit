@@ -54,9 +54,12 @@ I write code, fix bugs, create UI, break things accidentally, and learn faster t
 
 ## 🚀 Featured Projects
 
-#1# 🔹 **Rock Paper Scissor Game**    
-**Tech:** Javascript, HTML, CSS.
+### 🔹 **Rock Paper Scissor Game** 
+
+**Tech:** Javascript, HTML, CSS.**
+
 **Status:** Complete
+
 **Link:** - https://rockpaperscissorgame1.netlify.app/
 
 ---
